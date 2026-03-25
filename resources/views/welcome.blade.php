@@ -57,13 +57,7 @@
                     </div>
                 </a>
                 
-                <a href="#" class="category-card">
-                    <img src="{{ asset('assets/images/category_juices.png') }}" alt="Juices">
-                    <div class="category-info">
-                        <h3>Juices</h3>
-                        <p>8 products</p>
-                    </div>
-                </a>
+
             </div>
         </div>
     </section>
